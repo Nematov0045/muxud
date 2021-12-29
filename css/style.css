@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#dream{
+    background-image: url('https://www.worldatlas.com/r/w768/upload/1c/2b/66/shutterstock-149198729-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    width: 100%;
+
+}
+#dream .primary-overlay{
+    background: rgba(50, 146, 166, 0.8);
+
+}
